@@ -29,11 +29,11 @@ python recognize.py
 
 ## Demo
 
-The quantized version the ONNX model is running of a **Jetson Nano**:
+The quantized version the ONNX model is running on a **Jetson Nano** computer:
 
 <img src="./files/jnano_terminal.jpg" width="400">
 
-Jetson Nano is charged by a Powerbank:
+Jetson Nano is charged by a Power Bank:
 
 <img src="./files/jnano_photo.jpg" width="400">
 
