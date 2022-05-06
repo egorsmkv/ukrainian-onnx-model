@@ -8,7 +8,12 @@ If you want to export own ONNX model, follow this [Google Colab](https://colab.r
 
 ## Installation
 
-Download [**onnx-uk-1b.zip**](https://www.dropbox.com/s/03qh8u10lkyfntz/onnx-uk-1b.zip?dl=0) file and unpack it in the repository folder.
+Download [**onnx-uk-1b.zip**](https://www.dropbox.com/s/03qh8u10lkyfntz/onnx-uk-1b.zip?dl=0) (3.33 GB) file and unpack it in the repository folder.
+
+There's the quantized version of the model (~300 MB), link: [onnx-uk-300m-quantized.onnx
+](https://www.dropbox.com/s/lfskkg6c5hmltcd/onnx-uk-300m-quantized.onnx?dl=0). 
+
+Note: replace **vocab.json** by **vocab_300m.json** file if you will use the quantized version.
 
 Install Python dependencies:
 
