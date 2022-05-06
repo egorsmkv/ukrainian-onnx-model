@@ -21,3 +21,8 @@ pip install onnxruntime numpy scipy
 ```bash
 python recognize.py
 ```
+
+## Links
+
+- Other Speech-to-Text implementations: https://github.com/egorsmkv/speech-recognition-uk
+- Telegram community about speech recognition of the Ukrainian language: https://t.me/speech_recognition_uk
