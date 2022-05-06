@@ -27,6 +27,17 @@ pip install onnxruntime numpy scipy
 python recognize.py
 ```
 
+## Demo
+
+The quantized version the ONNX model is running of a **Jetson Nano**:
+
+<img src="./files/jnano_terminal.jpg" width="400">
+
+Jetson Nano is charged by a Powerbank:
+
+<img src="./files/jnano_photo.jpg" width="400">
+
+
 ## Links
 
 - Other Speech-to-Text implementations: https://github.com/egorsmkv/speech-recognition-uk
