@@ -8,7 +8,7 @@ If you want to export own ONNX model, follow this [Google Colab](https://colab.r
 
 ## Installation
 
-Download **onnx-uk-1b.zip** file and unpack it in the repository folder.
+Download [**onnx-uk-1b.zip**](https://www.dropbox.com/s/03qh8u10lkyfntz/onnx-uk-1b.zip?dl=0) file and unpack it in the repository folder.
 
 Install Python dependencies:
 
