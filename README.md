@@ -42,3 +42,9 @@ Jetson Nano is charged by a Power Bank:
 
 - Other Speech-to-Text implementations: https://github.com/egorsmkv/speech-recognition-uk
 - Telegram community about speech recognition of the Ukrainian language: https://t.me/speech_recognition_uk
+
+## Tensorflow
+
+If you like to use Tensorflow, then there's a SavedModel - [tf_uk_300m_model.zip](https://www.dropbox.com/s/kf9pc671h8ffxk5/tf_uk_300m_model.zip?dl=0)
+
+Use `tf_predict.py` to recognize files with the Tensorflow model.
